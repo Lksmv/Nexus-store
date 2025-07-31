@@ -47,7 +47,7 @@ nav.navbar .btn-outline-light {
 
 .card {
   background: white;
-  border: 1px solid #ccc;
+  border: 1px solid #ecf0f1;
   border-radius: 8px;
   padding: 10px;
   margin: 10px;
@@ -65,7 +65,7 @@ nav.navbar .btn-outline-light {
   display: flex;
   align-items: center;
   background: white;
-  border: 1px solid #ccc;
+  border: 1px solid #ecf0f1;
   margin-bottom: 15px;
   padding: 10px;
   gap: 15px;

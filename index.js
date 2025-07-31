@@ -10,8 +10,6 @@ document.addEventListener('DOMContentLoaded', () => {
     link.onclick = e => {
       e.preventDefault();
       categoriaSelecionada = link.dataset.categoria;
-      links.forEach(l => l.classList.remove('active'));
-      link.classList.add('active');
       filtrarEExibir();
     };
   });
