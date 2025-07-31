@@ -1,0 +1,404 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Camisa Polo Azul",
+      "imagem": "https://idealvestrouparia.com.br/cdn/shop/files/CamisaPoloAzulBebeMescladoMasculinaLiquidTouch-CalvinKlein.jpg?v=1716384619",
+      "estoque": 9,
+      "categoria": "Roupas",
+      "valor": 79.9
+    },
+    {
+      "id": "2",
+      "nome": "Tênis Esportivo masculino olympikus preto",
+      "imagem": "https://modaum.cdn.magazord.com.br/img/2023/11/produto/774/01-tenis-esportivo-masculino-olympikus-em-tecido-preto.jpeg?ims=600x600",
+      "estoque": 0,
+      "categoria": "Calçados",
+      "valor": 199.9
+    },
+    {
+      "id": "3",
+      "nome": "Relógio Digital",
+      "imagem": "https://cdn.eclock.com.br/media/catalog/product/cache/1/image/1000x/9df78eab33525d08d6e5fb8d27136e95/r/e/relogio-digital-x-watch-masculino-esportivo-xmppd707bxpx-04.jpg",
+      "estoque": 0,
+      "categoria": "Acessórios",
+      "valor": 149.9
+    },
+    {
+      "id": "4",
+      "nome": "Mochila Escolar Juvenil Feminina Rebecca Bonbon",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/1258915/mochila_escolar_juvenil_feminina_rebecca_bonbon_clio_style_2270519_1_4b4b223a3270f66d726e388f0078baba.jpg",
+      "estoque": 27,
+      "categoria": "Mochilas",
+      "valor": 89.9
+    },
+    {
+      "id": "5",
+      "nome": "Fone de Ouvido / Headphones JBL Tune T520BTB Bluetooth Pure Bass com Microfone Integrado",
+      "imagem": "https://d296pbmv9m7g8v.cloudfront.net/Custom/Content/Products/10/72/1072452_fone-de-ouvido-headphones-jbl-tune-t520btb-bluetooth-pure-bass-com-microfone-integrado-10010708_z10_638600297848917606.webp",
+      "estoque": 23,
+      "categoria": "Eletrônicos",
+      "valor": 129.9
+    },
+    {
+      "id": "6",
+      "nome": "Camiseta Basica Preta Masculino Algodão Gola Redonda",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_660672-MLB88114646935_072025-O-camiseta-basica-preta-masculino-algodo-gola-redonda.webp",
+      "estoque": 49,
+      "categoria": "Roupas",
+      "valor": 39.9
+    },
+    {
+      "id": "7",
+      "nome": "Calça Jeans Slim Premium Original Denim",
+      "imagem": "https://s.jcanedo.com/product/2024/08/frente-2108193131.jpg",
+      "estoque": 17,
+      "categoria": "Roupas",
+      "valor": 119.9
+    },
+    {
+      "id": "8",
+      "nome": "Sandália Feminina Sapoti com Araçá ",
+      "imagem": "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/lojamzq/media/uploads/produtos/foto/yahxkryf/5312-nude.jpg",
+      "estoque": 7,
+      "categoria": "Calçados",
+      "valor": 89.9
+    },
+    {
+      "id": "9",
+      "nome": "Boné Estampado Aleatory Embroidery Marinho",
+      "imagem": "https://aleatory.vtexassets.com/arquivos/ids/614138/Bone-Estampado-Aleatory-Embroidery-Marinho-Azul-Marinho-Unico.jpg?v=638773967896270000",
+      "estoque": 40,
+      "categoria": "Acessórios",
+      "valor": 29.9
+    },
+    {
+      "id": "10",
+      "nome": "Óculos de Sol Masculino Vogue VO4309S Prata Retangular",
+      "imagem": "https://cdn.dooca.store/101255/products/oculos-de-sol-vogue-vo4309-prata-retangular-masculino_800x800.jpg?v=1716406666",
+      "estoque": 22,
+      "categoria": "Acessórios",
+      "valor": 99.9
+    },
+    {
+      "id": "11",
+      "nome": "Short Mom em Jeans com Cintura Alta | Feminino | Blue Steel | Azul Médio",
+      "imagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQhiP5GuAEU9ilvMJgq0S_cb0yC5UjQwgE52CHbJneEYStG1aMTxGvRgiOG8hM2KWg5RcYsLTUbDMIVOG7SxFYAideTs8XkI0UowgiGK2wKRs7CWdwEEZa-w",
+      "estoque": 25,
+      "categoria": "Roupas",
+      "valor": 59.9
+    },
+    {
+      "id": "12",
+      "nome": "Bolsa Feminina Chenson Casual Chic",
+      "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS4Xvtb48i5wzbKHhV5e5vEv6HBvotiUW9BA3yGA1WeJyh3CdN_Zb6RSatpSon2N0Elp41kLFsT1t8_NX8FLoEV7l_s8hja4PU22PfJ_WFVxOUNy0WaxXhA1yo",
+      "estoque": 18,
+      "categoria": "Acessórios",
+      "valor": 139.9
+    },
+    {
+      "id": "13",
+      "nome": "Tablet Android 8.0 Polegadas 4 + 68 GB Google Play Novo PC WiFi Dual Slot Classe 5 Megapixels + Traseiro 12",
+      "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTkZa6d-uT3girkrrOlJishjUMg2LuNHWM6oA-G3LRY2rzLIyAteBUcxpEYZ0iqFGkeDHfEaTeERLWnaYGgj7K-XxvEuP5O_eJqljxn9t8lx18vKyHLCxRH",
+      "estoque": 8,
+      "categoria": "Eletrônicos",
+      "valor": 499.9
+    },
+    {
+      "id": "14",
+      "nome": "Carregador Portátil Power Bank Geonav",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcStYJ2tkECOi5U6vAsVGvtOmst5HDwNztGxOJqNcmXn7aJzWirYtm_rAV6t2tkg32vyef8bny0rppxBRooXnkxY15gAhEl0j0EGS63U82dB8uyBH0jJ9Pcf",
+      "estoque": 35,
+      "categoria": "Eletrônicos",
+      "valor": 59.9
+    },
+    {
+      "id": "15",
+      "nome": "Jaqueta Corta Vento Black Ghost",
+      "imagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQxM8NajSAFgOfvShSyCEvzcA2Ehf2ypmV_pcl6fUwp08ufsbME1rtbdj97i6y_l1PMsXle5f46lAVCtuzfcEtkaM0YLaYMFNeuoI17cEfCfXlZUCMT8ak5zw",
+      "estoque": 12,
+      "categoria": "Roupas",
+      "valor": 189.9
+    },
+    {
+      "id": "16",
+      "nome": "Puma Tênis Smash V2 Masculino",
+      "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRnUimrUXPXl-CZsUocGNAjHo7dOnAffqwpYtXKy-JsxJf2thaZAeO1oCO5VRT6iwTfFzOsUkUChOY1MKJpFe-3jraqJ6IVlHoRYVC_SQ0vPkrOPk6ev01i",
+      "estoque": 20,
+      "categoria": "Calçados",
+      "valor": 149.9
+    },
+    {
+      "id": "17",
+      "nome": "Cinto Masculino Fasolo Couro",
+      "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS5mzyNfd7e8oQ4IIfk9GqvD8_FmG9e0KTEEuLzaqHl12FPv7dF1KvDk9XCw8SvZYxIQctirIr0VTDFvqX5LMzEx79X10i7eZthYrmgu_-2ctTAiY5jOpHBlQ",
+      "estoque": 27,
+      "categoria": "Acessórios",
+      "valor": 49.9
+    },
+    {
+      "id": "18",
+      "nome": "Garrafa Térmica Fresh + Ebook Coquette",
+      "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR9-1_hQOKS48ttCZU4LweanXN0EE7um2-JWxKFrPqohnGZ23O1LsQBdgw8-mcBPhG3KQXcd1NX42IfU86R7o2JpAgbncvFnybBn8uduHQA5sod51XHWjWOYA",
+      "estoque": 16,
+      "categoria": "Utilidades",
+      "valor": 39.9
+    },
+    {
+      "id": "19",
+      "nome": "Smartphone Infinix Hot 11 128GB 4GB RAM Câmera Tripla até 50 MP",
+      "imagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRsqZsg9XjDRezwvQKk5O4VaX0_RGVgM46EOeVL4TFth5Z53VyCWgPFh7-MYoB2llZKo8MibVoQlN0ZRVzXdpCM8rxVT7XIXPM0bnXPxsPZIy9PTk_8QRma25o",
+      "estoque": 5,
+      "categoria": "Eletrônicos",
+      "valor": 1599.9
+    },
+    {
+      "id": "20",
+      "nome": "Relógio Smartwatch Bluetooth Iwo8 Lite Notificações Para Ios E Android",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQiDdrurBMW4hqQzc0A6gJ38kFY4QeWQNczp7Oyzl_r-XiVXVImdZqTyxj_JSJyARYsXrsS1r4Fa64KGzqY5PEdSMoZOPyGAXZjTWAnkAVtc-JEngj73ARDmpI",
+      "estoque": 9,
+      "categoria": "Eletrônicos",
+      "valor": 299.9
+    },
+    {
+      "id": "21",
+      "nome": "VESTIDO BROOKLYN MIDI FLORAL PRETO",
+      "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQJz_Lrp6AuDBVSVE2cUY45mZGcWJiyb6zBBP2VYcwwL7sgXFhd0dLvE_1gsjhyFddpnAiC0IkHXzVE_QF5AdCOs6UZVt0Wmooi0EIPqjn0-lhli4TPkThzAw",
+      "estoque": 14,
+      "categoria": "Roupas",
+      "valor": 109.9
+    },
+    {
+      "id": "22",
+      "nome": "Carteira Masculina Slim Pequena Luxo Couro Legítimo Natural",
+      "imagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTTQub0D2vas5XREu-3i3IjOUa29wmG8tEN4BkcET6vKwdd6wkW8zvj2kOaz5vpBd2xW6nSOrp_KICtgGzq3PIsPNRp4yLhnYpHo4KvVcmvrGaRYF2b-YzqkvnH",
+      "estoque": 19,
+      "categoria": "Acessórios",
+      "valor": 69.9
+    },
+    {
+      "id": "23",
+      "nome": "Moletom Canguru Unissex Algodão Atacado ção Preto Liso Sem Estampa",
+      "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQHmbnIZg92E2hOD4pXnT7W_-bplZlbLA6GbUGkSshT30JAiOQ1cLNcBYpe-HUJ4C6WPS5kV5CAH64U9hTeWRxqDQh6j3KaBrUwadrT0rWVvYNMURR72O63oQ",
+      "estoque": 20,
+      "categoria": "Roupas",
+      "valor": 99.9
+    },
+    {
+      "id": "24",
+      "nome": "Tênis Adidas Masculino Duramo",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRdHtoXuZA5Zm1eu1kSgIKiNIhVDk_J78GQE9NBrOvE5q_N51YdI9smUB_QYjDX9wlFG1BVdogVe86Yv_t-qmfVjZvaH98FOFSjqZNYCnrfWHh1elZJ5mj9HQ",
+      "estoque": 13,
+      "categoria": "Calçados",
+      "valor": 239.9
+    },
+    {
+      "id": "25",
+      "nome": "Chroma Tech Capa Capinha Case para Motorola Moto Edge 40 Neo",
+      "imagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1h9v5QP2AuMYXkWAZ4akUnWvqRgYgBCLJbYUU4lT8iefFZCUf6gnhHVY44Zs95ZqiFAF2-2ORuX75oYDQh7QWrzY2kXBXWRKueum2WYBm3K1aR-J3P6he",
+      "estoque": 40,
+      "categoria": "Eletrônicos",
+      "valor": 19.9
+    },
+    {
+      "id": "26",
+      "nome": "Caderno Universitário 10 Matérias Zip Preto 160 Folhas Tilibra",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRzilz4WKtUuNRUQcDhf6_8Y3HKebfTjr_IbwYA4n9KJwUOv_PBmFcbeKZ5v6skCopZTxfi6rYAeCmyeeJgBKZv8NzrqG2sfnzgBSeqpfJ7glD_ixs-XsRZ",
+      "estoque": 60,
+      "categoria": "Papelaria",
+      "valor": 24.9
+    },
+    {
+      "id": "27",
+      "nome": "Pen Drive Sandisk Cruzer Blade",
+      "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRd-NCvPBF91tWlNC4dQvYBYfHjxqzqVYExqO1GAy94dEMCDboAeLil-1rcaV-fE_zsHaWoUm2UuJcPNqw65NLWdbwNPMM7Hc4z6mccKPR05wZ7QA6REn5qqA",
+      "estoque": 45,
+      "categoria": "Eletrônicos",
+      "valor": 34.9
+    },
+    {
+      "id": "28",
+      "nome": "Camisa Social Masculina Manga Longa Slim Fit Tecido Não Amassa",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTca3GcbXqK14yJJi0goY0zt9jzG4L75Bl5B6X6AeSlBA32ULKcXNnZ-m5gkVBbAHaR2bg-hcSjThpI38UL6y2p2z-_6ds8DLj0fdmEjTocUBos3v04sG1I1A",
+      "estoque": 11,
+      "categoria": "Roupas",
+      "valor": 89.9
+    },
+    {
+      "id": "29",
+      "nome": "Saia Jeans Com Barra Desfiada",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7ENu_EqQuQ3fNCfXQjKmcYH2eq_l6a3TmtK32o4FY3AyRqJDeZ-unm1MpUcoORSUr48qpKP_MSBMT6DWuVpzTP6zKGfpBBRkPU9p8PnKa",
+      "estoque": 22,
+      "categoria": "Roupas",
+      "valor": 69.9
+    },
+    {
+      "id": "30",
+      "nome": "Caixa de Som Bluetooth Philco Extreme PBS220BT",
+      "imagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7eRhOSaPQQAbnXpCTBioc4E5NXawoGNSdNVv0AdHzaPjxUVUbaWYSV3MbphGFn78eQY34u724KdzObUV1E3X57uPu1K53ZCgsBKkCZI29ieGomurJAQPtlK8",
+      "estoque": 17,
+      "categoria": "Eletrônicos",
+      "valor": 159.9
+    },
+    {
+      "id": "31",
+      "nome": "Tênis Infantil",
+      "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTCni7aXFyRIuVuqJIPSxYgjaVHtDfjuNWtisF2IV_Lw9KXOleonDhBjLQ3vg8WQZUnupLlj2xn4j9Z_PDNM9M3mUq5ZlEerGSjEhWwc1TsFCptchF73eNHppk",
+      "estoque": 16,
+      "categoria": "Calçados",
+      "valor": 99.9
+    },
+    {
+      "id": "32",
+      "nome": "Chinelo Masculino Drip Slide Rider",
+      "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTxkp_f5UXWPOK5Vxa7SJk-mvzGdYQmPWjs1mXJckQlMEjKiH2eiwBEGD2IXQn4LPxO5ujYFNfOwTr_n6jtxzZTLxOdQVMOOfFvpHzHqGyzob7I97xG4sFT",
+      "estoque": 25,
+      "categoria": "Calçados",
+      "valor": 39.9
+    },
+    {
+      "id": "33",
+      "nome": "Cachecol Lã Reggae Inverno Quente A Pronta Entrega BLV",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQi8t7MFKyBI3A7VC0dkh8Bek9RcRp6LU-6pHrZQ0lb1bFH2etX3wiA78TcHf5ZzKk8M7WKDNVV47287TOZUSiIH-n6-8Jncq6hbHqbcPuCQH77mM4RIutt",
+      "estoque": 10,
+      "categoria": "Acessórios",
+      "valor": 59.9
+    },
+    {
+      "id": "34",
+      "nome": "Notebook Positivo Vision C14 Intel Celeron 4GB eMMC HD Lumina BAR”",
+      "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcToVY_dO7jssCtxHfXg1rOefOIs4fqE4MkQMi2-_5jngbvpwy3C5slcOlW2HI67R0xTlV_Z0M6axIDKSP2PMexdnvhU7iChvuAt8iofGARs762yRCZ3mY5G",
+      "estoque": 6,
+      "categoria": "Eletrônicos",
+      "valor": 2799.9
+    },
+    {
+      "id": "35",
+      "nome": "Mouse Gamer HyperX Pulsefire Core RGB",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTxLxvM4dv38xhCjyletISlIGPB88WR_M5QGF4N1-xh1hZBMm2yJKZejFr9X528p1tuJEX2UUSWR-c7P7o2qSdcYzLSCgFOa_RWiXo4T1afkcTOg5AB6zIQ",
+      "estoque": 25,
+      "categoria": "Eletrônicos",
+      "valor": 89.9
+    },
+    {
+      "id": "36",
+      "nome": "Camisa Regular em Algodão Xadrez e Manga Longa | Masculino | Blue Steel | Vermelho | P",
+      "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQbEIRzz5BOif-wCaN8vn6v6eOxq99J57yRNJ_3B0W-gpPJyJGwi6jG-m5LDqnRUKcs1pmO2XSQQRCOdoB59G8cFItJBFntEHI5KB4eROEAyJS8CJUGq1PN",
+      "estoque": 15,
+      "categoria": "Roupas",
+      "valor": 79.9
+    },
+    {
+      "id": "37",
+      "nome": "Jaqueta Jeans Feminina Rovitex",
+      "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQcM2iH8QGFSBl82B2Gc5SwlTVBod0Bd7d5e31jxm5Fubs-VOJ7zkhdhO15Vz5nR0pSNVYQp9wCUa7SgcJm4QKSSYSo62hyOq63ch9iYhzQ_tPRe6L1M_wuOg",
+      "estoque": 12,
+      "categoria": "Roupas",
+      "valor": 149.9
+    },
+    {
+      "id": "38",
+      "nome": "Tablet Positivo Twist Tab Kids Spidey+ 2GB Ram 64GB",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTlF6L0viL4hnjPhHRMzv80TRsUdvfh3wF_Skw78P_VCvsuIGMIiGmgAoZcsHBmFKtCcNSZ0aRSzjera32xyds0PBUYabFhhKXdglSHOb2n0gEfemE5y1YeaA",
+      "estoque": 10,
+      "categoria": "Eletrônicos",
+      "valor": 299.9
+    },
+    {
+      "id": "39",
+      "nome": "Brinco Life Petit Coração Prata Cravejado",
+      "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRXnSVJ72WkJAi59FINsenF_Fh5FLq5BIKh9L5IvZteHu3Rlxw0fIfwOLqXdQM_E-Uoq6ZuX25hYC07BGPqbIT1x6mjz14b0q-Px7pKUzTqkKmxTarfY6D5EXgC",
+      "estoque": 30,
+      "categoria": "Acessórios",
+      "valor": 49.9
+    },
+    {
+      "id": "40",
+      "nome": "Mousepad Gamer Havit MP861 700x300x3mm",
+      "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSWUemQgJhYrAW-wq-z_N6yXCnKPQn3JLB5hPYbuJJHiGzMtB5GBvtH-RV_RuB5p2wxDNM-tM_w_FmN47RoME_d3L0UMtFhFBY6rnlchjJRCWIWi0qjkIv0HQ",
+      "estoque": 22,
+      "categoria": "Eletrônicos",
+      "valor": 29.9
+    },
+    {
+      "id": "41",
+      "nome": "Tênis Plataforma Stomp",
+      "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRYkmWdQiOJ9ihtfHeh03GNKAjnQ4Z_z7uDyz-Q7seaia4KBPSusm5GYQpZdrMQIMWX7WC2Lp7Hyh9OfBabu11KpA9uEWTQCxxclZ50AsQ8H3cYmcM_Uzhrkg",
+      "estoque": 10,
+      "categoria": "Calçados",
+      "valor": 159.9
+    },
+    {
+      "id": "42",
+      "nome": "Zara Camiseta Estampada",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ1rOb_46gJP1sqAq2NFVVHeRb3uTh6BeQW2PPx-aX_Kj8NFz9XZHerGh3tkZye7fH2kT9S8DLA4sBohqq65MZrzh7UfG1LyCKG_Y7uLyUIj-26avijeb0-qsk",
+      "estoque": 35,
+      "categoria": "Roupas",
+      "valor": 49.9
+    },
+    {
+      "id": "43",
+      "nome": "Kit Marcador Profissional Duas Pontas Touch Sweet 60 Colors",
+      "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT7PMdM6BZDpHovWlw0sNHG9YSsc0zvFrT25qUVQphGVtnHCPPBLdLaCjEnskmUsJg05HPuDdJfhPXF-UcXJPTUg9BA5axTTV8XQm6uTlwr6-Mvt4adHC68",
+      "estoque": 50,
+      "categoria": "Papelaria",
+      "valor": 19.9
+    },
+    {
+      "id": "44",
+      "nome": "Bermuda Calvin Klein Athletic Bicolor Masculina",
+      "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR9sv5Nrtz0MfR4n25nNX2IhtP7qtzzJkw6Misrjg990mBJ6-UQUpmKVSC2_cb_FUqsZwtEHp9qo-ZrgiyqoMilnEmVLfh8qrE32FhCL8P2bVAL5oBYwMJU",
+      "estoque": 23,
+      "categoria": "Roupas",
+      "valor": 59.9
+    },
+    {
+      "id": "45",
+      "nome": "Samsung Tablet Galaxy Tab A 10.1 32GB",
+      "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTtwBLX6XeMyT06co5G1QaVxD4LSOGwuFZhEu2cWteIoMowPqTqseCgIg_EKy4tOAFRaVq8olfprZ-LwxTqVm1ZYxS1gu_-e8ttLhE824UPRNb84u6v9jWb7i4",
+      "estoque": 7,
+      "categoria": "Eletrônicos",
+      "valor": 699.9
+    },
+    {
+      "id": "46",
+      "nome": "Tenis Masculino Casual Original Skatista Nyc Shoes",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgQikunHC7ofsxptbBp69hwwYtFqr-eH1uUR7E4I_YBw-FCWo5d8OBPPBMP_63noOuKjigzIPkTTG7ze_K_rtXvQoQTUdSeqPllrIES56ksbI4aF43oHWlzTU",
+      "estoque": 9,
+      "categoria": "Calçados",
+      "valor": 189.9
+    },
+    {
+      "id": "47",
+      "nome": "Jaqueta Casual De Couro Pu Moto Para Homens Jovens MID LIT",
+      "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRzwYPmkjESouCn5SmLy6mqpzG_trrbA7xH4KplSAMl0DAqU_uU319uXb5M0KdFkidh32-FLAqVIsi6xSnpd6XsG36UdLqCWYt5jEGbJ09VtIAwStsaO4ufRw",
+      "estoque": 10,
+      "categoria": "Roupas",
+      "valor": 199.9
+    },
+    {
+      "id": "48",
+      "nome": "Carregador Turbo 67w USB-C Compativel Com Lingtning/Iphone 15",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRat4CTY8xmNX8RP-C-8qCXj2q3k2wveZYvsAcTWD4vUmS-43WFKWhEQf-BlJibK4KPiFRo26Z3tVSdBN9UvXgfO9heO8kuTeNKeC7erU3AkuRCm-adgwcvdA",
+      "estoque": 33,
+      "categoria": "Eletrônicos",
+      "valor": 49.9
+    },
+    {
+      "id": "49",
+      "nome": "Colar De Prata Olho Grego Madrepérola",
+      "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRygu1t0Ib9Jfs1b8IbRoiCEyyc3EFX1mDLNxQzAcy1FYvDL1CnCbA4GkDWqsduCNVB6-gptlJ9TO443SGpX6Y4v_65pD75oJnO_giGDjAPJYO2wDL8c_IIYg",
+      "estoque": 28,
+      "categoria": "Acessórios",
+      "valor": 39.9
+    },
+    {
+      "id": "50",
+      "nome": "Camisa Social Masculina Manga longa Slim Fit",
+      "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ8Wq67P-TwuR7qvOJmSj_82-bKN76vtn4orjLIDifieot03EBpJIzP284UrBtfpndmJaQx6BRX8CndeVuv21S2sqIqLw80x_H5SBPd_Vk",
+      "estoque": 21,
+      "categoria": "Roupas",
+      "valor": 89.9
+    }
+  ]
+}

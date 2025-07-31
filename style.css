@@ -1,0 +1,127 @@
+/* Paleta Azul escuro(#34495e) + cinza claro(#ecf0f1) + verde suave(#2ecc71) */
+
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #f5f7fa;
+  color: #2c3e50;
+}
+
+nav.navbar {
+  background-color: #34495e;
+  padding: 10px;
+}
+
+nav.navbar .navbar-brand {
+  color: #2ecc71;
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+
+nav.navbar .nav-link {
+  color: #ecf0f1;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+nav.navbar .nav-link:hover {
+  color: #2ecc71;
+}
+
+nav.navbar .btn-outline-light {
+  color: #2ecc71;
+  border: 1px solid #2ecc71;
+  background: none;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+#iconCarrinho {
+  background-color: #e67e22;
+  color: white;
+  font-size: 0.75rem;
+  padding: 2px 5px;
+}
+
+.card {
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.card img {
+  width: 100%;
+  max-height: 200px;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+
+.carrinho-item-card {
+  display: flex;
+  align-items: center;
+  background: white;
+  border: 1px solid #ccc;
+  margin-bottom: 15px;
+  padding: 10px;
+  gap: 15px;
+}
+
+.carrinho-item-card img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.carrinho-item-details {
+  flex: 1;
+}
+
+.carrinho-item-details h5 {
+  margin: 0 0 8px 0;
+  color: #27ae60;
+  font-size: 1.1rem;
+}
+
+.carrinho-item-details p {
+  margin: 4px 0;
+  font-size: 0.95rem;
+}
+
+.carrinho-item-actions button {
+  background-color: #e67e22;
+  border: none;
+  color: white;
+  padding: 8px 15px;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.carrinho-item-actions button:hover {
+  background-color: #d35400;
+}
+
+.actions {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.actions .btn-success {
+  background-color: #27ae60;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+}
+
+.actions .btn-secondary {
+  background-color: #95a5a6;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+}
